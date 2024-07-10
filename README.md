@@ -41,7 +41,7 @@ To start the service, run the following command:
 ```sh
 java -jar target/hoen-scanner-1.0-SNAPSHOT.jar server config.yml
 
-
+```
 
 The service will start on the default port (8080) and admin port (8081).
 
